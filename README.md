@@ -1,5 +1,8 @@
-<a href="https://akshat0502.github.io/ShopifyWebsite/" style="text-decoration: none;"><b>E-Commerce Website </b></a>
-    <br><br>
+<h1>
+    <a href="https://akshat0502.github.io/ShopifyWebsite/" style="text-decoration: none;"><b>E-Commerce Website </b></a>
+
+</h1> 
+<br><br>
     <p>For a <b> E-Commerce Website </b> project selling <b>inverter batteries </b>and <b>accessories</b> using <b>HTML</b>, <b>CSS</b>,<b> Bootstrap</b>,<b> PHP</b> and <b>SQL</b> the objective is to create a dynamic, user-friendly platform that allows customers to browse products, add them to a cart, and make purchases. The back-end with <b>PHP </b>and <b>SQL</b> will handle user authentication, product management, order processing, and payment integration.</p>
 
    <ol>
