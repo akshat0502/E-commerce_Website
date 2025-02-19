@@ -1,5 +1,5 @@
 <h1>
-    <a href="https://akshat0502.github.io/ShopifyWebsite/" style="text-decoration: none;"><b>E-Commerce Website </b></a>
+    <a href="https://akshat0502.github.io/E-commerce_Website/"><b>E-Commerce Website </b></a>
 
 </h1> 
 <br>
