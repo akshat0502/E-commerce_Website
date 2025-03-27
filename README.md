@@ -20,5 +20,8 @@
                 <li><b>PHP </b>– For server-side logic to handle product listings, user authentication, and order processing.</li>
             </ul>
         </li>
+       <li>
+           <h4>Database: </h4>
+       </li>
         <br>
     </ol>
