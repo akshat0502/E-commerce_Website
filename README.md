@@ -18,7 +18,6 @@
             <h4>Backend:</h4>
             <ul>
                 <li><b>PHP </b>– For server-side logic to handle product listings, user authentication, and order processing.</li>
-                <li><b>SQL </b>– For storing and retrieving data related to products, users, and orders.</li>
             </ul>
         </li>
         <br>
