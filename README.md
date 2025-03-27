@@ -23,7 +23,7 @@
        <li>
            <h4>Database: </h4>
            <ul>
-               <li><li><b>SQL </b>– For storing and retrieving data related to products, users, and orders.</li></li>
+               <li><b>SQL </b>– For storing and retrieving data related to products, users, and orders.</li>
            </ul>
        </li>
         <br>
