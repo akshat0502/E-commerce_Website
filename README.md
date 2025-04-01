@@ -25,5 +25,4 @@
                <li><b>SQL </b>– For storing and retrieving data related to products, users, and orders.</li>
            </ul>
        </li>
-        <br>
     </ol>
