@@ -13,7 +13,6 @@
                 <li><b>CSS – </b>For custom styling to enhance the appearance.</li>
             </ul>
         </li>
-        <br>
         <li>
             <h4>Backend:</h4>
             <ul>
